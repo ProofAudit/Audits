@@ -1,0 +1,163 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429pt" height="731pt" viewBox="0.00 0.00 429.31 731.00">
+<g id="graph0" class="graph" transform="translate(44.208056230588085,635.7756749376006) scale(0.8397314929441403)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-727 425.31,-727 425.31,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="23.33,-586 23.33,-715 359.98,-715 359.98,-586 23.33,-586" style=""/>
+<text text-anchor="middle" x="191.65" y="-698.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- Context -->
+<g id="node1" class="node" pointer-events="visible" data-name="Context">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-18" rx="41.73" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Context</text>
+</g>
+<!-- IUniswapV2Pair -->
+<g id="node2" class="node" pointer-events="visible" data-name="IUniswapV2Pair">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="324.98" cy="-144" rx="75.89" ry="18" style=""/>
+<text text-anchor="middle" x="324.98" y="-139.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Pair</text>
+</g>
+<!-- IUniswapV2Factory -->
+<g id="node3" class="node" pointer-events="visible" data-name="IUniswapV2Factory">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-144" rx="89.77" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-139.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Factory</text>
+</g>
+<!-- IERC20 -->
+<g id="node4" class="node" pointer-events="visible" data-name="IERC20">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-198" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-193.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
+</g>
+<!-- IERC20Metadata -->
+<g id="node5" class="node" pointer-events="visible" data-name="IERC20Metadata">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-252" rx="78.73" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-247.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20Metadata</text>
+</g>
+<!-- ERC20 -->
+<g id="node6" class="node" pointer-events="visible" data-name="ERC20">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-306" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC20</text>
+</g>
+<!-- ERC20&#45;&gt;ERC20 -->
+<g id="edge1" class="edge" data-name="ERC20-&gt;ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M63.19,-317.24C43.08,-328.92 54.12,-342 96.33,-342 127.65,-342 141.81,-334.79 138.81,-326.31" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="141.25,-323.8 131.64,-319.35 136.38,-328.83 141.25,-323.8" style=""/>
+</g>
+<!-- SafeMath -->
+<g id="node7" class="node" pointer-events="visible" data-name="SafeMath">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-378" rx="48.66" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeMath</text>
+</g>
+<!-- SafeMath&#45;&gt;SafeMath -->
+<g id="edge2" class="edge" data-name="SafeMath-&gt;SafeMath">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M60,-391.29C44.47,-402.4 56.58,-414 96.33,-414 122.41,-414 136.59,-409 138.87,-402.43" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="142.06,-400.96 134.13,-393.94 135.95,-404.37 142.06,-400.96" style=""/>
+</g>
+<!-- Ownable -->
+<g id="node8" class="node" pointer-events="visible" data-name="Ownable">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="324.98" cy="-72" rx="45.79" ry="18" style=""/>
+<text text-anchor="middle" x="324.98" y="-67.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Ownable</text>
+</g>
+<!-- Ownable&#45;&gt;Ownable -->
+<g id="edge3" class="edge" data-name="Ownable-&gt;Ownable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M289.46,-84.73C272.72,-96 284.56,-108 324.98,-108 352.77,-108 367.05,-102.33 367.82,-95.12" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="370.87,-93.37 362.25,-87.21 365.14,-97.4 370.87,-93.37" style=""/>
+</g>
+<!-- SafeMathInt -->
+<g id="node9" class="node" pointer-events="visible" data-name="SafeMathInt">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-450" rx="59.11" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-445.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeMathInt</text>
+</g>
+<!-- SafeMathUint -->
+<g id="node10" class="node" pointer-events="visible" data-name="SafeMathUint">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-504" rx="66" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-499.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeMathUint</text>
+</g>
+<!-- IUniswapV2Router01 -->
+<g id="node11" class="node" pointer-events="visible" data-name="IUniswapV2Router01">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-558" rx="96.15" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-553.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Router01</text>
+</g>
+<!-- IUniswapV2Router02 -->
+<g id="node12" class="node" pointer-events="visible" data-name="IUniswapV2Router02">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="324.98" cy="-18" rx="96.15" ry="18" style=""/>
+<text text-anchor="middle" x="324.98" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Router02</text>
+</g>
+<!-- CliffordInu -->
+<g id="node13" class="node" pointer-events="visible" data-name="CliffordInu">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="96.33" cy="-72" rx="55.04" ry="18" style=""/>
+<text text-anchor="middle" x="96.33" y="-67.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">CliffordInu</text>
+</g>
+<!-- CliffordInu&#45;&gt;IUniswapV2Pair -->
+<g id="edge7" class="edge" data-name="CliffordInu-&gt;IUniswapV2Pair">
+
+<path fill="none" stroke="white" stroke-width="2" d="M135.93,-85.84C162,-95.04 197.26,-107.18 228.65,-117 238.8,-120.17 249.61,-123.39 260.16,-126.44" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="258.89,-129.72 269.47,-129.1 260.82,-122.99 258.89,-129.72" style=""/>
+</g>
+<!-- CliffordInu&#45;&gt;Ownable -->
+<g id="edge6" class="edge" data-name="CliffordInu-&gt;Ownable">
+
+<path fill="none" stroke="white" stroke-width="2" d="M152.77,-72C186.82,-72 230.4,-72 265.07,-72" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="264.86,-75.5 274.86,-72 264.86,-68.5 264.86,-75.5" style=""/>
+</g>
+<!-- CliffordInu&#45;&gt;IUniswapV2Router02 -->
+<g id="edge5" class="edge" data-name="CliffordInu-&gt;IUniswapV2Router02">
+
+<path fill="none" stroke="white" stroke-width="2" d="M142.92,-61.14C173.32,-53.9 213.98,-44.21 249.07,-35.85" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="249.85,-39.26 258.77,-33.54 248.23,-32.45 249.85,-39.26" style=""/>
+</g>
+<!-- CliffordInu&#45;&gt;CliffordInu -->
+<g id="edge4" class="edge" data-name="CliffordInu-&gt;CliffordInu">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M58.52,-86.42C45.32,-97.17 57.92,-108 96.33,-108 119.13,-108 132.84,-104.18 137.45,-98.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="140.88,-98.1 134.91,-89.34 134.11,-99.91 140.88,-98.1" style=""/>
+</g>
+<!-- key -->
+<g id="node14" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="161.33,-682 31.33,-682 31.33,-594 161.33,-594 161.33,-682" style=""/>
+<text text-anchor="start" x="80.96" y="-663.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="77.07" y="-643.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="54.53" y="-623.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="40.93" y="-603.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node15" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="351.98,-682 297.98,-682 297.98,-594 351.98,-594 351.98,-682" style=""/>
+<text text-anchor="start" x="314.98" y="-663.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="314.98" y="-643.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="312.98,-618 312.98,-638 337.98,-638 337.98,-618 312.98,-618" style=""/>
+<text text-anchor="start" x="314.98" y="-623.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="314.98,-600 314.98,-616 335.98,-616 335.98,-600 314.98,-600" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.33,-668C219.88,-668 239.44,-668 299.06,-668" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="298.95,-671.5 308.95,-668 298.95,-664.5 298.95,-671.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge9" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M154.33,-648C219.88,-648 239.44,-648 299.06,-648" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="298.95,-651.5 308.95,-648 298.95,-644.5 298.95,-651.5" style=""/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="527pt" height="461pt" viewBox="0.00 0.00 527.10 461.00">
+<g id="graph0" class="graph" transform="translate(4,457) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-457 523.1,-457 523.1,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="19.57,-316 19.57,-445 345.5,-445 345.5,-316 19.57,-316" style=""/>
+<text text-anchor="middle" x="182.54" y="-428.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- SafeMath -->
+<g id="node1" class="node" pointer-events="visible" data-name="SafeMath">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="92.57" cy="-18" rx="48.66" ry="18" style=""/>
+<text text-anchor="middle" x="92.57" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeMath</text>
+</g>
+<!-- SafeMath&#45;&gt;SafeMath -->
+<g id="edge1" class="edge" data-name="SafeMath-&gt;SafeMath">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M57.46,-31.67C43.41,-42.66 55.12,-54 92.57,-54 115.98,-54 129.34,-49.57 132.63,-43.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="135.92,-42.36 128.85,-34.46 129.45,-45.04 135.92,-42.36" style=""/>
+</g>
+<!-- IBEP20 -->
+<g id="node2" class="node" pointer-events="visible" data-name="IBEP20">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="477.48" cy="-54" rx="41.74" ry="18" style=""/>
+<text text-anchor="middle" x="477.48" y="-49.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IBEP20</text>
+</g>
+<!-- Auth -->
+<g id="node3" class="node" pointer-events="visible" data-name="Auth">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="92.57" cy="-162" rx="30.2" ry="18" style=""/>
+<text text-anchor="middle" x="92.57" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Auth</text>
+</g>
+<!-- Auth&#45;&gt;Auth -->
+<g id="edge2" class="edge" data-name="Auth-&gt;Auth">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M65,-171.04C40.61,-183.2 49.8,-198 92.57,-198 127,-198 139.67,-188.42 130.6,-178.34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="132.83,-175.63 122.63,-172.77 128.82,-181.37 132.83,-175.63" style=""/>
+</g>
+<!-- IDEXFactory -->
+<g id="node4" class="node" pointer-events="visible" data-name="IDEXFactory">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="92.57" cy="-234" rx="63.7" ry="18" style=""/>
+<text text-anchor="middle" x="92.57" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IDEXFactory</text>
+</g>
+<!-- IDEXRouter -->
+<g id="node5" class="node" pointer-events="visible" data-name="IDEXRouter">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="310.5" cy="-126" rx="60.26" ry="18" style=""/>
+<text text-anchor="middle" x="310.5" y="-121.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IDEXRouter</text>
+</g>
+<!-- IDividendDistributor -->
+<g id="node6" class="node" pointer-events="visible" data-name="IDividendDistributor">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="92.57" cy="-288" rx="92.65" ry="18" style=""/>
+<text text-anchor="middle" x="92.57" y="-283.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IDividendDistributor</text>
+</g>
+<!-- DividendDistributor -->
+<g id="node7" class="node" pointer-events="visible" data-name="DividendDistributor">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="310.5" cy="-54" rx="89.22" ry="18" style=""/>
+<text text-anchor="middle" x="310.5" y="-49.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">DividendDistributor</text>
+</g>
+<!-- DividendDistributor&#45;&gt;IBEP20 -->
+<g id="edge4" class="edge" data-name="DividendDistributor-&gt;IBEP20">
+
+<path fill="none" stroke="white" stroke-width="2" d="M400.75,-54C407.79,-54 414.75,-54 421.45,-54" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="421.31,-57.5 431.31,-54 421.31,-50.5 421.31,-57.5" style=""/>
+</g>
+<!-- DividendDistributor&#45;&gt;DividendDistributor -->
+<g id="edge3" class="edge" data-name="DividendDistributor-&gt;DividendDistributor">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M280.3,-72.15C275.65,-81.54 285.72,-90 310.5,-90 323.29,-90 332.15,-87.75 337.11,-84.28" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="340.36,-85.64 339.85,-75.05 333.65,-83.64 340.36,-85.64" style=""/>
+</g>
+<!-- ZeldaINU -->
+<g id="node8" class="node" pointer-events="visible" data-name="ZeldaINU">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="92.57" cy="-90" rx="50.37" ry="18" style=""/>
+<text text-anchor="middle" x="92.57" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ZeldaINU</text>
+</g>
+<!-- ZeldaINU&#45;&gt;IDEXRouter -->
+<g id="edge5" class="edge" data-name="ZeldaINU-&gt;IDEXRouter">
+
+<path fill="none" stroke="white" stroke-width="2" d="M139.9,-97.72C170.11,-102.76 210.02,-109.41 243.53,-115" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="242.6,-118.39 253.04,-116.59 243.76,-111.49 242.6,-118.39" style=""/>
+</g>
+<!-- ZeldaINU&#45;&gt;DividendDistributor -->
+<g id="edge7" class="edge" data-name="ZeldaINU-&gt;DividendDistributor">
+
+<path fill="none" stroke="white" stroke-width="2" d="M139.9,-82.28C164.94,-78.1 196.64,-72.82 225.84,-67.95" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="226.33,-71.42 235.62,-66.32 225.18,-64.51 226.33,-71.42" style=""/>
+</g>
+<!-- ZeldaINU&#45;&gt;ZeldaINU -->
+<g id="edge6" class="edge" data-name="ZeldaINU-&gt;ZeldaINU">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M56.99,-104.04C43.68,-114.91 55.54,-126 92.57,-126 115.14,-126 128.36,-121.88 132.23,-116.21" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="135.61,-115.28 129.12,-106.91 128.98,-117.51 135.61,-115.28" style=""/>
+</g>
+<!-- key -->
+<g id="node9" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="157.57,-412 27.57,-412 27.57,-324 157.57,-324 157.57,-412" style=""/>
+<text text-anchor="start" x="77.21" y="-393.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="73.32" y="-373.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="50.78" y="-353.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="37.18" y="-333.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node10" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="337.5,-412 283.5,-412 283.5,-324 337.5,-324 337.5,-412" style=""/>
+<text text-anchor="start" x="300.5" y="-393.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="300.5" y="-373.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="298.5,-348 298.5,-368 323.5,-368 323.5,-348 298.5,-348" style=""/>
+<text text-anchor="start" x="300.5" y="-353.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="300.5,-330 300.5,-346 321.5,-346 321.5,-330 300.5,-330" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M150.57,-398C211.41,-398 229.74,-398 284.77,-398" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="284.48,-401.5 294.48,-398 284.48,-394.5 284.48,-401.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge9" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M150.57,-378C211.41,-378 229.74,-378 284.77,-378" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="284.48,-381.5 294.48,-378 284.48,-374.5 284.48,-381.5" style=""/>
+</g>
+</g>
+</svg>
