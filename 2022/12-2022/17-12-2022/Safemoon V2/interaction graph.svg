@@ -1,0 +1,151 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="695pt" viewBox="0.00 0.00 432.48 695.00">
+<g id="graph0" class="graph" transform="translate(46.18905097399269,646.6378384434239) scale(0.8514537077489454)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-691 428.48,-691 428.48,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="24.91,-550 24.91,-679 363.15,-679 363.15,-550 24.91,-550" style=""/>
+<text text-anchor="middle" x="194.03" y="-662.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- Safemoon -->
+<g id="node1" class="node" pointer-events="visible" data-name="Safemoon">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-18" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Safemoon</text>
+</g>
+<!-- Safemoon&#45;&gt;Safemoon -->
+<g id="edge2" class="edge" data-name="Safemoon-&gt;Safemoon">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M61.07,-31.48C45.83,-42.53 58.11,-54 97.91,-54 123.41,-54 137.61,-49.29 140.52,-43" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="143.71,-41.56 136.11,-34.19 137.45,-44.7 143.71,-41.56" style=""/>
+</g>
+<!-- IUniswapV2Router02 -->
+<g id="node11" class="node" pointer-events="visible" data-name="IUniswapV2Router02">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="328.15" cy="-18" rx="96.15" ry="18" style=""/>
+<text text-anchor="middle" x="328.15" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Router02</text>
+</g>
+<!-- Safemoon&#45;&gt;IUniswapV2Router02 -->
+<g id="edge1" class="edge" data-name="Safemoon-&gt;IUniswapV2Router02">
+
+<path fill="none" stroke="white" stroke-width="2" d="M149.56,-18C169.83,-18 194,-18 217.89,-18" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="217.69,-21.5 227.69,-18 217.69,-14.5 217.69,-21.5" style=""/>
+</g>
+<!-- SafeMathUpgradeable -->
+<g id="node2" class="node" pointer-events="visible" data-name="SafeMathUpgradeable">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-90" rx="97.82" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeMathUpgradeable</text>
+</g>
+<!-- AddressUpgradeable -->
+<g id="node3" class="node" pointer-events="visible" data-name="AddressUpgradeable">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="328.15" cy="-144" rx="92.03" ry="18" style=""/>
+<text text-anchor="middle" x="328.15" y="-139.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">AddressUpgradeable</text>
+</g>
+<!-- AddressUpgradeable&#45;&gt;AddressUpgradeable -->
+<g id="edge3" class="edge" data-name="AddressUpgradeable-&gt;AddressUpgradeable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M287.05,-161.41C279.37,-171.09 293.07,-180 328.15,-180 346.51,-180 359.01,-177.56 365.66,-173.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="369,-174.9 368.41,-164.32 362.27,-172.95 369,-174.9" style=""/>
+</g>
+<!-- Initializable -->
+<g id="node4" class="node" pointer-events="visible" data-name="Initializable">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-144" rx="57.3" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-139.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Initializable</text>
+</g>
+<!-- Initializable&#45;&gt;AddressUpgradeable -->
+<g id="edge5" class="edge" data-name="Initializable-&gt;AddressUpgradeable">
+
+<path fill="none" stroke="white" stroke-width="2" d="M156.51,-144C176.47,-144 199.52,-144 222.09,-144" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="221.91,-147.5 231.91,-144 221.91,-140.5 221.91,-147.5" style=""/>
+</g>
+<!-- Initializable&#45;&gt;Initializable -->
+<g id="edge4" class="edge" data-name="Initializable-&gt;Initializable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M59.84,-158.42C46.55,-169.17 59.24,-180 97.91,-180 120.87,-180 134.68,-176.18 139.32,-170.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="142.74,-170.09 136.77,-161.34 135.98,-171.91 142.74,-170.09" style=""/>
+</g>
+<!-- ContextUpgradeable -->
+<g id="node5" class="node" pointer-events="visible" data-name="ContextUpgradeable">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-216" rx="90.89" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-211.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ContextUpgradeable</text>
+</g>
+<!-- ContextUpgradeable&#45;&gt;ContextUpgradeable -->
+<g id="edge6" class="edge" data-name="ContextUpgradeable-&gt;ContextUpgradeable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M56.81,-233.41C49.13,-243.09 62.84,-252 97.91,-252 116.27,-252 128.77,-249.56 135.42,-245.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="138.76,-246.9 138.17,-236.32 132.04,-244.95 138.76,-246.9" style=""/>
+</g>
+<!-- OwnableUpgradeable -->
+<g id="node6" class="node" pointer-events="visible" data-name="OwnableUpgradeable">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-288" rx="95.46" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-283.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">OwnableUpgradeable</text>
+</g>
+<!-- OwnableUpgradeable&#45;&gt;OwnableUpgradeable -->
+<g id="edge7" class="edge" data-name="OwnableUpgradeable-&gt;OwnableUpgradeable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M56.81,-305.41C49.13,-315.09 62.84,-324 97.91,-324 116.27,-324 128.77,-321.56 135.42,-317.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="138.76,-318.9 138.17,-308.32 132.04,-316.95 138.76,-318.9" style=""/>
+</g>
+<!-- ISafemoon -->
+<g id="node7" class="node" pointer-events="visible" data-name="ISafemoon">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-360" rx="53.32" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-355.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ISafemoon</text>
+</g>
+<!-- IUniswapV2Factory -->
+<g id="node8" class="node" pointer-events="visible" data-name="IUniswapV2Factory">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-414" rx="89.77" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-409.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Factory</text>
+</g>
+<!-- IUniswapV2Pair -->
+<g id="node9" class="node" pointer-events="visible" data-name="IUniswapV2Pair">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-468" rx="75.89" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-463.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Pair</text>
+</g>
+<!-- IUniswapV2Router01 -->
+<g id="node10" class="node" pointer-events="visible" data-name="IUniswapV2Router01">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="97.91" cy="-522" rx="96.15" ry="18" style=""/>
+<text text-anchor="middle" x="97.91" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Router01</text>
+</g>
+<!-- key -->
+<g id="node12" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="162.91,-646 32.91,-646 32.91,-558 162.91,-558 162.91,-646" style=""/>
+<text text-anchor="start" x="82.55" y="-627.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="78.66" y="-607.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="56.11" y="-587.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="42.51" y="-567.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node13" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="355.15,-646 301.15,-646 301.15,-558 355.15,-558 355.15,-646" style=""/>
+<text text-anchor="start" x="318.15" y="-627.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="318.15" y="-607.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="316.15,-582 316.15,-602 341.15,-602 341.15,-582 316.15,-582" style=""/>
+<text text-anchor="start" x="318.15" y="-587.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="318.15,-564 318.15,-580 339.15,-580 339.15,-564 318.15,-564" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.91,-632C222.26,-632 241.96,-632 302.48,-632" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="302.12,-635.5 312.12,-632 302.12,-628.5 302.12,-635.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge9" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M155.91,-612C222.26,-612 241.96,-612 302.48,-612" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="302.12,-615.5 312.12,-612 302.12,-608.5 302.12,-615.5" style=""/>
+</g>
+</g>
+</svg>
