@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="329pt" height="389pt" viewBox="0.00 0.00 329.19 389.00">
+<g id="graph0" class="graph" transform="translate(4,385) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-385 325.19,-385 325.19,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="34.6,-244 34.6,-373 313.19,-373 313.19,-244 34.6,-244" style=""/>
+<text text-anchor="middle" x="173.89" y="-356.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- IERC20 -->
+<g id="node1" class="node" pointer-events="visible" data-name="IERC20">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="107.6" cy="-18" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="107.6" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
+</g>
+<!-- SafeMath -->
+<g id="node2" class="node" pointer-events="visible" data-name="SafeMath">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="107.6" cy="-72" rx="48.66" ry="18" style=""/>
+<text text-anchor="middle" x="107.6" y="-67.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeMath</text>
+</g>
+<!-- ERC20 -->
+<g id="node3" class="node" pointer-events="visible" data-name="ERC20">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="107.6" cy="-126" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="107.6" y="-121.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC20</text>
+</g>
+<!-- ERC20&#45;&gt;ERC20 -->
+<g id="edge1" class="edge" data-name="ERC20-&gt;ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M79.74,-140.04C69.32,-150.91 78.61,-162 107.6,-162 124.81,-162 135.07,-158.09 138.39,-152.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="141.82,-151.93 136.14,-142.99 135.01,-153.52 141.82,-151.93" style=""/>
+</g>
+<!-- TokenMintERC20Token -->
+<g id="node4" class="node" pointer-events="visible" data-name="TokenMintERC20Token">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="107.6" cy="-198" rx="107.69" ry="18" style=""/>
+<text text-anchor="middle" x="107.6" y="-193.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TokenMintERC20Token</text>
+</g>
+<!-- TokenMintERC20Token&#45;&gt;TokenMintERC20Token -->
+<g id="edge2" class="edge" data-name="TokenMintERC20Token-&gt;TokenMintERC20Token">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M76.55,-216.52C72.26,-225.76 82.61,-234 107.6,-234 120.09,-234 128.93,-231.94 134.1,-228.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="137.38,-229.95 137.58,-219.36 130.82,-227.51 137.38,-229.95" style=""/>
+</g>
+<!-- key -->
+<g id="node5" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="172.6,-340 42.6,-340 42.6,-252 172.6,-252 172.6,-340" style=""/>
+<text text-anchor="start" x="92.23" y="-321.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="88.34" y="-301.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="65.8" y="-281.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="52.2" y="-261.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node6" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="305.19,-340 251.19,-340 251.19,-252 305.19,-252 305.19,-340" style=""/>
+<text text-anchor="start" x="268.19" y="-321.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="268.19" y="-301.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="266.19,-276 266.19,-296 291.19,-296 291.19,-276 266.19,-276" style=""/>
+<text text-anchor="start" x="268.19" y="-281.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="268.19,-258 268.19,-274 289.19,-274 289.19,-258 268.19,-258" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge3" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M165.6,-326C205.19,-326 218.22,-326 252.22,-326" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="252.17,-329.5 262.17,-326 252.17,-322.5 252.17,-329.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge4" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M165.6,-306C205.19,-306 218.22,-306 252.22,-306" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="252.17,-309.5 262.17,-306 252.17,-302.5 252.17,-309.5" style=""/>
+</g>
+</g>
+</svg>
